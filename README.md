@@ -27,11 +27,6 @@ quarterly profit analysis, discount calculations, and restock targeting.
 **Techniques:** `DISTINCT`, `UPPER`, multi-column `ORDER BY`, filtering with `IN`, `GROUP BY`/`HAVING`,
 `FETCH FIRST`.
 
-### ☕ Starbucks
-Customer analytics to understand and segment Starbucks' audience — demographics, purchase behaviour,
-and membership tracking. Includes a full PostgreSQL **table schema design** and data import workflow.
-**Techniques:** schema creation (`CREATE TABLE`), data typing, demographic aggregation.
-
 ### 🏢 Facility Management
 Querying a leisure-facility database: member fees, maintenance-cost ratios, booking volumes, and
 member activity.
